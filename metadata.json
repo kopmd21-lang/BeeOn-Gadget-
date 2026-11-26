@@ -1,0 +1,6 @@
+{
+  "name": "BeeOn Gadget",
+  "description": "Smart gadgets, mobile accessories, and tech essentials storefront with cart and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
